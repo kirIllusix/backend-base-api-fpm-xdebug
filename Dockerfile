@@ -1,4 +1,4 @@
-FROM mrchub/backend-base-api-fpm:0.12.33
+FROM mrchub/backend-base-api-fpm:latest
 
 # disable interactive functions
 ENV DEBIAN_FRONTEND noninteractive
